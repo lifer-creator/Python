@@ -39,7 +39,7 @@ void menu()
   printf("*****1.开始***2.结束****\n");
   printf("************************\n");
   
-  scanf("%d\n",&c);
+  scanf("%d",&c);
   if(c==1)
   game();
   else
