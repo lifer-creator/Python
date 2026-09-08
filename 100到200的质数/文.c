@@ -5,7 +5,7 @@ int main()
    for(i=100;i<200;i++)
    {
     t=1;
-       for(m=2;m<15;i++)
+       for(m=2;m<i;m++)
        {
         
         if(i%m==0 )
