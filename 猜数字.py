@@ -15,4 +15,5 @@ while c!=0:
 	c=c-1
 if c==0:
 	print("失败了")
+	print("素数为",s)
         
