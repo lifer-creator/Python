@@ -7,7 +7,7 @@ elif su==1:
 	print("输入为1")
 	
 else:
-	while a*a<su:
+	while a*a<=su:
 		if su%a!=0:
 			a+=1
 		else:
