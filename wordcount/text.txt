@@ -1,0 +1,38 @@
+The quick brown fox jumps over the lazy dog. The dog barks and the fox runs away.
+A quick fox is a happy fox, and the lazy dog sleeps.
+The fox and the dog are friends.
+1.the-7
+
+2.fox-5
+
+3.dog-4
+
+4.and-3
+
+5.quick-2
+
+6.lazy-2
+
+7.a-2
+
+8.brown-1
+
+9.jumps-1
+
+10.over-1
+
+11.barks-1
+
+12.runs-1
+
+13.away-1
+
+14.is-1
+
+15.happy-1
+
+16.sleeps-1
+
+17.are-1
+
+18.friends-1

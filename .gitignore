@@ -1,0 +1,15 @@
+# 草稿程序，不上传
+# 草稿程序，不上传
+草稿.py
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境（15 MB，绝不能传）
+虚拟/
+venv/
+.venv/
+
+# 脚本生成的结果文件
+csv练习/blorp_q7_summary.csv
